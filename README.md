@@ -4,7 +4,6 @@ study guide for course prework
 
 ## study guide created to help bootcamp students remember and relearn materials used during prework
 
-
 I built this project to make it eaiser to access more personalized notes all while learming parts of HTML, CSS, JavaScript and README
 
 
