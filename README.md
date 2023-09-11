@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # prework-study-guide
 study guide for course prework
 # <Prework Study Guide Webpage>
