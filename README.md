@@ -3,8 +3,6 @@ study guide for course prework
 ---
 permalink: /index.html
 ---
-# prework-study-guide
-study guide for course prework
 # <Prework Study Guide Webpage>
 
 ## study guide created to help bootcamp students remember and relearn materials used during prework
